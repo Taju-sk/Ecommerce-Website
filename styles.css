@@ -1,0 +1,255 @@
+body{
+    background-color: rgb(237, 229, 229);
+}
+.logo-img{
+    width: 130px;
+    height: 70px;
+}
+.nav-link{
+    margin-right: 10px;
+}
+.carousel-hh{
+    width: 100%;
+    height: 40vh;
+    padding-top:50px ;
+}
+.ww {
+    object-fit: fill;
+    /* width: 100%!important; */
+    height: 40vh;
+    width: 80vw;
+    text-align: center;
+    margin: 0 auto;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 40vh;
+}
+.carousel-control-prev-icon {
+    color: #be2b2b;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+.carousel-control-next-icon {
+    color: #be2b2b;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+
+.service-heading{
+    color: #183b56;
+    font-weight: bold;
+}
+.service-para{
+    color: #616c7c;
+    font-family: Roboto;
+}
+.service-card-container{
+    padding: 10px;
+    background-color: white;
+    border-radius: 18px;
+}
+.service-img{
+    width: 100px;
+    margin-top: 5px;
+
+}
+.service-card-heading{
+    color: #1f2933;
+    font-size: 30px;
+    font-family: Roboto;
+    margin-top: 10px;
+}
+.service-card-para{
+    color: #7b8794;
+    font-family: Roboto;
+}
+
+
+.hdphn-bg-image{
+    background-image: url("https://images.pexels.com/photos/4887231/pexels-photo-4887231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 400px;
+    border-radius: 18px;
+    background-size: cover;
+}
+.laptop-bg-image{
+    background-image: url("https://images.pexels.com/photos/3644098/pexels-photo-3644098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 400px;
+    border-radius: 18px;
+    background-size: cover;
+}
+.bg-image-heading{
+    color: white;
+    font-weight: bold;
+}
+.bg-image-para{
+    color: white;
+}
+.modal-button{
+    width: 200px;
+    margin-bottom: 10px;
+    border: none;
+    color: rgb(235, 177, 71);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+span{
+    font: bold;
+}
+
+
+.offer-container{
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding: 30px;
+}
+.special-offer-img{
+    width: 200px;
+}
+.electronics-img{
+    width: 500px;
+}
+.offers-heading{
+    color: #ad2167;
+    margin-top: 10px;
+    
+}
+.offers-para{
+    color: white;
+    font-family: Roboto;
+    font-size: 25px;
+}
+.sbi-card-img{
+    width: 400px;
+    text-align: center;
+}
+
+
+.blog-card-container{
+    background-color: white;
+    border-radius: 18px;
+}
+.blog-card-image{
+    width: 100%;
+}
+.blog-type{
+    color: #959ead;
+    font-family: Roboto;
+}
+.blog-card-head{
+    color: #183b56 ;
+    font-size: 25px;
+    font-weight: 700;
+}
+.blog-card-para{
+    color: #959ead;
+}
+.blog-card-link{
+    color: orange;
+    font-weight: 700;
+}
+
+
+
+.explore-card-container{
+    border-radius: 18px;
+    background-color: white;
+}
+.explore-card-main-head {
+    color: #183b56;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.explore-card-image {
+    width: 100%;
+    border-radius: 20px;
+}
+.explore-card-head {
+    font-size: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.explore-card-image-container {
+    padding: 10px;
+}
+.explore-link {
+    color: orange;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+
+.contact-container{
+    background-color: #f5f7fa;
+}
+.contact-btn{
+    color: #ff9f00;
+    background-color: transparent;
+    border: 2px solid #ff9f00;
+    width: 150px;
+    font-family: Roboto;
+    font-weight: 500;
+    height: 42px;
+}
+
+
+.footer-section{
+    background-color: #0d2436;
+}
+.address-para {
+    color: #959ead;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+.footer-head{
+    color: #5a7184;
+    font-weight: 700;
+    font-size: 16px;
+}
+.footer-image {
+    height: 70px;
+    width: 200px;
+}
+.icon-container {
+    color: #5a7184;
+    font-size: 27px;
+
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+li{
+    color: #5a7184;
+    font-size: 13px;
+    font-family: Roboto;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.icon {
+    border-radius: 30px;
+    background-color: #152c3e;
+}
+hr {
+    border-color: #5a7184;
+}
+.footer-icon{
+    color: #959ead;
+}
+.footer-copyright{
+    color: #959ead;
+    font-style: Roboto;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
